@@ -1,8 +1,8 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-    "mcr.microsoft.com/devcontainers/java": {
-            "version": "17"
+    "mcr.microsoft.com/devcontainers/java:17": {
+            "version": "none"
     }
   }
 }
